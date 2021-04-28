@@ -1,0 +1,225 @@
+body, html{
+	height: 100%;
+	margin: 0;
+	padding: 5;
+	background-color: #95a5a6;
+	
+}
+
+
+.div1{
+	background-image: url(onward1.png);
+	background-repeat: no-repeat;
+	-webkit-background-size:cover;
+	background-size:cover;
+	background-position: center center;
+	position: absolute;
+	left: 140px;
+	border: 1px solid #95a5a6;
+	width: 80%;
+	height: 95%;
+	padding: 8px;
+	margin: 7px;
+}
+
+img{
+	background-repeat: no-repeat;
+	background-position: center center;
+	position: absolute;
+	top: 7px;
+	left: 10px;
+	width: 98%;
+	height:98%;
+	
+}
+
+
+nav{
+	display: block;
+	position: absolute;
+	top: 22px;
+	left: 550px;
+}
+
+ul li a{
+	text-decoration: none;
+   color: white;
+   list-style-type: none;
+   width: 150px;
+}
+
+nav ul li{
+	float: left;
+	display: inline-block;
+	padding: 25px;
+	font-family: lucida sans;
+
+}
+
+nav ul li:hover{
+	font-size: 18px;
+}
+
+.login{
+	position: absolute;
+	border: 2px solid white;
+	width:100px;
+	height: 30px;
+	left: 1050px;
+	top: 55px;
+	border-radius: 20%;
+}
+
+.login h4 a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.login:hover{
+	font-size: 18px;
+}
+
+h4{
+	position: absolute;
+    color: white;
+    bottom: -15px;
+    left: 25px;
+}
+
+.img1{
+	position: absolute;
+	top: 57px;
+	left: 135px;
+	width: 160px;
+	height:30px;
+}
+
+h1{
+	position: absolute;
+	top: 100px;
+	color: white;
+	font-size: 100px;
+	font-family: Source Sans Pro black;
+	left: 132px;
+
+}
+
+.ligne1{
+	position: absolute;
+	background-color: #ffff;
+	border: 1px solid #ffff;
+	top: 285px;
+	left: 145px;
+	width: 35%;
+	opacity: 20%;
+}
+
+.p1{
+	position: absolute;
+	font-family: calibri light;
+	font-size: 13px;
+	top: 284px;
+	left: 157px;
+	color: white;
+	opacity: 60%;
+}
+
+.p1:hover{
+	opacity: 100%;
+}
+
+.ligne2{
+	position: absolute;
+	background-color: #ffff;
+	border: 1px solid #ffff;
+	top: 325px;
+	left: 145px;
+	width: 35%;
+	opacity: 20%;
+}
+
+.p2{
+	position: absolute;
+	font-family: calibri light;
+	font-size: 13px;
+	top: 325px;
+	left: 157px;
+	color: white;
+	opacity: 60%;
+}
+
+.p2:hover{
+	opacity: 100%;
+}
+
+h6{
+	position: absolute;
+	top: 530px;
+	left: 155px;
+	color: #ffff;
+	font-size: 14px;
+}
+
+.video1{
+	position: absolute;
+	top: 570px;
+	left: 144px;
+	width: 180px;
+	height: 140px;
+}
+
+.video1:hover{
+	width: 200px;
+	height: 160px;
+}
+
+.video2{
+	position: absolute;
+	top: 570px;
+	left: 330px;
+	width: 180px;
+	height: 140px;
+}
+
+.video2:hover{
+	width: 200px;
+	height: 160px;
+}
+
+.fleche{
+	position: absolute;
+	top: 625px;
+	left: 80px;
+	width: 30px;
+	height: 70px;
+}
+
+.fleche:hover{
+	top: 645px;
+}
+
+.bouton1{
+	position: absolute;
+	top: 490px;
+	left: 160px;
+	width: 120px;
+	height: 40px;
+}
+
+.bouton1:hover{
+	width: 140px;
+	height: 42px;
+}
+
+.bouton2{
+	position: absolute;
+	top: 490px;
+	left: 330px;
+	width: 120px;
+	height: 30px;
+}
+
+.bouton2:hover{
+	width: 140px;
+	height: 42px;
+}
